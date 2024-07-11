@@ -7,7 +7,7 @@ Test # 2                                                                        
 
 
 
-## 🚀 PassXYZ
+## 🚀 Color maker HEX
 
 En esta oportunidad he creado mezclador de manera muy sencilla practicando lo aprendido hasta el momento, este mezclador de colores permite copiar y guardar en el portapapeles el color elegido tal como se ve en las animaciones con .NET MAUI - C#
 
