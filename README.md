@@ -18,7 +18,7 @@ En esta oportunidad he creado mezclador de manera muy sencilla practicando lo ap
 
 ## Instalación
 
-Solo debes clonar el repositorio y desde VSC 2022 abrir la Solucción (PassXYZ.Vault.sln)
+Solo debes clonar el repositorio y desde VSC 2022 abrir la Solucción ColorHEX.sln)
 
 <p align="center">
   <img src="https://i.ibb.co/CPp0nX5/copiar-repo.gif" alt="Lección #6" />
